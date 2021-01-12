@@ -13298,8 +13298,8 @@ __webpack_require__.r(__webpack_exports__);
 class NitroConfiguration {
 }
 NitroConfiguration.RELEASE_VERSION = 'PRODUCTION-201611291003-338511768';
-NitroConfiguration.SOCKET_URL = 'ws://127.0.0.1:30010';
-NitroConfiguration.ASSET_URL = 'https://assets.nitrots.co';
+NitroConfiguration.SOCKET_URL = 'ws://localhost:2096';
+NitroConfiguration.ASSET_URL = 'http://localhost/nitro';
 NitroConfiguration.EXTERNAL_TEXTS_URL = NitroConfiguration.ASSET_URL + '/gamedata/json/ExternalTexts.json';
 NitroConfiguration.AVATAR_GEOMETRY_URL = NitroConfiguration.ASSET_URL + '/gamedata/json/HabboAvatarGeometry.json';
 NitroConfiguration.AVATAR_PARTSETS_URL = NitroConfiguration.ASSET_URL + '/gamedata/json/HabboAvatarPartSets.json';
@@ -13310,12 +13310,12 @@ NitroConfiguration.AVATAR_FIGUREMAP_URL = NitroConfiguration.ASSET_URL + '/gamed
 NitroConfiguration.AVATAR_EFFECTMAP_URL = NitroConfiguration.ASSET_URL + '/gamedata/json/EffectMap.json';
 NitroConfiguration.AVATAR_ASSET_URL = NitroConfiguration.ASSET_URL + '/figure/%libname%/%libname%.json';
 NitroConfiguration.AVATAR_ASSET_EFFECT_URL = NitroConfiguration.ASSET_URL + '/effect/%libname%/%libname%.json';
-NitroConfiguration.FURNIDATA_URL = NitroConfiguration.ASSET_URL + '/gamedata/json/FurnitureDataNGH.json';
+NitroConfiguration.FURNIDATA_URL = NitroConfiguration.ASSET_URL + '/gamedata/json/FurnitureData.json';
 NitroConfiguration.BADGE_URL = NitroConfiguration.ASSET_URL + '/badges/%badgename%.gif';
 NitroConfiguration.GROUP_BADGE_URL = NitroConfiguration.ASSET_URL + '/group-badge/%badgedata%';
 NitroConfiguration.PET_ASSET_URL = NitroConfiguration.ASSET_URL + '/pet/%libname%/%libname%.json';
 NitroConfiguration.FURNI_ASSET_URL = NitroConfiguration.ASSET_URL + '/furniture/%libname%/%libname%.json';
-NitroConfiguration.FURNI_ASSET_ICON_URL = 'https://swf.nextgenhabbo.com/dcr/hof_furni/icons/%libname%%param%_icon.png';
+NitroConfiguration.FURNI_ASSET_ICON_URL = 'http://localhost/nitro/dcr/hof_furni/%libname%%param%_icon.png';
 NitroConfiguration.ROOM_ASSET_URL = NitroConfiguration.ASSET_URL + '/room/%libname%/%libname%.json';
 NitroConfiguration.FPS = 24;
 NitroConfiguration.PACKET_LOG = false;

@@ -13,14 +13,14 @@ fest_c19_bgwall_fest_c19_bgwall_64_a_4_0.png
   index: -1
 fest_c19_bgwall_fest_c19_bgwall_64_a_4_1.png
   rotate: false
-  xy: 80, 294
+  xy: 80, 36
   size: 64, 256
   orig: 64, 256
   offset: 0, 0
   index: -1
 fest_c19_bgwall_fest_c19_bgwall_64_a_4_2.png
   rotate: false
-  xy: 80, 36
+  xy: 80, 294
   size: 64, 256
   orig: 64, 256
   offset: 0, 0
@@ -41,14 +41,14 @@ fest_c19_bgwall_fest_c19_bgwall_64_a_4_4.png
   index: -1
 fest_c19_bgwall_fest_c19_bgwall_64_a_4_5.png
   rotate: false
-  xy: 2, 552
+  xy: 80, 552
   size: 76, 257
   orig: 76, 257
   offset: 0, 0
   index: -1
 fest_c19_bgwall_fest_c19_bgwall_64_a_4_6.png
   rotate: false
-  xy: 80, 552
+  xy: 2, 552
   size: 76, 257
   orig: 76, 257
   offset: 0, 0

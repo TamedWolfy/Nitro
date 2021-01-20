@@ -13,14 +13,14 @@ autumn_r20_pond_autumn_r20_pond_64_a_4_0.png
   index: -1
 autumn_r20_pond_autumn_r20_pond_64_a_4_1.png
   rotate: false
-  xy: 487, 82
+  xy: 584, 162
   size: 95, 78
   orig: 95, 78
   offset: 0, 0
   index: -1
 autumn_r20_pond_autumn_r20_pond_64_a_4_10.png
   rotate: false
-  xy: 2039, 82
+  xy: 2136, 162
   size: 95, 78
   orig: 95, 78
   offset: 0, 0
@@ -55,7 +55,7 @@ autumn_r20_pond_autumn_r20_pond_64_a_4_14.png
   index: -1
 autumn_r20_pond_autumn_r20_pond_64_a_4_15.png
   rotate: false
-  xy: 1457, 82
+  xy: 1554, 162
   size: 95, 78
   orig: 95, 78
   offset: 0, 0
@@ -97,7 +97,7 @@ autumn_r20_pond_autumn_r20_pond_64_a_4_2.png
   index: -1
 autumn_r20_pond_autumn_r20_pond_64_a_4_20.png
   rotate: false
-  xy: 584, 162
+  xy: 487, 2
   size: 95, 78
   orig: 95, 78
   offset: 0, 0
@@ -167,7 +167,7 @@ autumn_r20_pond_autumn_r20_pond_64_a_4_29.png
   index: -1
 autumn_r20_pond_autumn_r20_pond_64_a_4_3.png
   rotate: false
-  xy: 99, 2
+  xy: 196, 82
   size: 95, 78
   orig: 95, 78
   offset: 0, 0
@@ -321,7 +321,7 @@ autumn_r20_pond_autumn_r20_pond_64_a_4_49.png
   index: -1
 autumn_r20_pond_autumn_r20_pond_64_a_4_5.png
   rotate: false
-  xy: 293, 82
+  xy: 390, 162
   size: 95, 78
   orig: 95, 78
   offset: 0, 0
@@ -356,7 +356,7 @@ autumn_r20_pond_autumn_r20_pond_64_a_4_53.png
   index: -1
 autumn_r20_pond_autumn_r20_pond_64_a_4_54.png
   rotate: false
-  xy: 2136, 162
+  xy: 2039, 82
   size: 95, 78
   orig: 95, 78
   offset: 0, 0
@@ -391,7 +391,7 @@ autumn_r20_pond_autumn_r20_pond_64_a_4_58.png
   index: -1
 autumn_r20_pond_autumn_r20_pond_64_a_4_59.png
   rotate: false
-  xy: 1554, 162
+  xy: 1457, 82
   size: 95, 78
   orig: 95, 78
   offset: 0, 0
@@ -405,7 +405,7 @@ autumn_r20_pond_autumn_r20_pond_64_a_4_6.png
   index: -1
 autumn_r20_pond_autumn_r20_pond_64_a_4_60.png
   rotate: false
-  xy: 390, 162
+  xy: 293, 82
   size: 95, 78
   orig: 95, 78
   offset: 0, 0
@@ -419,7 +419,7 @@ autumn_r20_pond_autumn_r20_pond_64_a_4_61.png
   index: -1
 autumn_r20_pond_autumn_r20_pond_64_a_4_62.png
   rotate: false
-  xy: 196, 82
+  xy: 99, 2
   size: 95, 78
   orig: 95, 78
   offset: 0, 0
@@ -433,7 +433,7 @@ autumn_r20_pond_autumn_r20_pond_64_a_4_63.png
   index: -1
 autumn_r20_pond_autumn_r20_pond_64_a_4_64.png
   rotate: false
-  xy: 487, 2
+  xy: 487, 82
   size: 95, 78
   orig: 95, 78
   offset: 0, 0
